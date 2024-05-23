@@ -121,7 +121,7 @@ Users are advised to use this tool responsibly and within legal and ethical boun
 By using this project, you agree to the terms and conditions mentioned above.
 '''
 
-copyright_text = '''Copyright (c) 2023 sarthakxy
+copyright_text = '''Copyright (c) 2024 sarthakxy
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
